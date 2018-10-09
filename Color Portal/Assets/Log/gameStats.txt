@@ -1,0 +1,43 @@
+09/26/2018 01:18:26, Player took portal
+09/26/2018 01:18:33, Player took portal
+09/26/2018 01:18:35, Player took portal
+09/26/2018 01:18:46, Player took portal
+09/26/2018 01:18:47, Player took portal
+09/26/2018 01:18:48, Player took portal
+09/26/2018 01:18:52, Player took portal
+09/26/2018 01:18:56, Player took portal
+09/26/2018 01:26:58, Generating new level, 4, 4, 8
+09/26/2018 01:27:09, Generating new level, 2, 16, 13
+09/26/2018 01:27:21, Generating new level, 2, 10, 9
+09/26/2018 01:29:43, Generating new level, 4, 3, 7
+09/26/2018 01:30:28, Generating new level, 2, 3, 5
+09/26/2018 01:30:38, Player took portal
+09/26/2018 01:30:44, Generating new level, 2, 7, 9
+09/26/2018 01:30:57, Player took portal
+09/26/2018 01:31:01, Generating new level, 2, 13, 12
+09/26/2018 01:31:08, Player took portal
+09/26/2018 01:31:11, Player took portal
+09/26/2018 01:31:17, Player took portal
+09/26/2018 01:31:22, Player took portal
+09/26/2018 01:31:26, Player took portal
+09/26/2018 01:31:28, Player took portal
+09/26/2018 01:31:32, Player took portal
+09/26/2018 01:31:43, Generating new level, 8, 3, 11
+09/26/2018 01:31:49, Generating new level, 6, 4, 10
+09/26/2018 01:35:46, Generating new level, 4, 8, 8
+09/26/2018 01:36:01, Generating new level, 6, 9, 9
+09/26/2018 01:37:25, Generating new level, 2, 5, 5
+09/26/2018 01:37:31, Generating new level, 4, 8, 8
+09/26/2018 01:37:50, Generating new level, 2, 5, 5
+09/26/2018 01:40:50, Generating new level, 2, 5, 5
+09/26/2018 01:41:04, Generating new level, 2, 5, 5
+09/26/2018 01:41:14, Generating new level, 4, 8, 8
+09/26/2018 01:41:37, Generating new level, 8, 12, 12
+09/26/2018 01:41:50, Generating new level, 8, 14, 13
+09/26/2018 01:42:03, Generating new level, 10, 13, 13
+09/26/2018 01:42:20, Generating new level, 2, 6, 6
+09/26/2018 01:42:33, Generating new level, 6, 9, 9
+09/26/2018 01:42:43, Generating new level, 6, 9, 9
+09/26/2018 01:42:59, Generating new level, 6, 9, 9
+09/26/2018 01:43:19, Generating new level, 2, 4, 4
+09/26/2018 01:43:24, Generating new level, 6, 13, 12
